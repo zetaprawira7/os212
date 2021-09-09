@@ -7,5 +7,7 @@ ZCZC W00 15 L32 YouTube: study, etc.
 ZCZC W00 30 L06 References/Books/Documents/GSGS related
 ZCZC W00 30 L02 Attend ZOOM meetings related
 ZCZC W00 15 L82 Reading Book (paper or online)
+ZCZC W00 20 L10 Assignment #00
 ZCZC W01 100 L02 Attend ZOOM OS Class
 ZCZC W01 15 L21 Trying install VirtualBox
+ZCZC W01 300 L11 Assignment #01
