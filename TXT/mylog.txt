@@ -11,3 +11,4 @@ ZCZC W00 20 L10 Assignment #00
 ZCZC W01 100 L02 Attend ZOOM OS Class
 ZCZC W01 15 L21 Trying install VirtualBox
 ZCZC W01 300 L11 Assignment #01
+ZCZC W01 15 L64 Helping OS related problem to a friend.
