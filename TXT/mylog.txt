@@ -22,3 +22,4 @@ ZCZC W01 45 L19 Assignment #09
 ZCZC W01 15 L64 Helping OS related problem to a friend.
 ZCZC W01 15 L64 Helping OS related problem to a friend.
 ZCZC W02 100 L02 Attend ZOOM OS Class
+ZCZC W02 70 L09 Assignment in General
