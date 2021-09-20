@@ -26,3 +26,5 @@ ZCZC W02 20 L22 Quiz
 ZCZC W02 100 L02 Attend ZOOM OS Class
 ZCZC W02 70 L09 Assignment in General
 ZCZC W02 15 L64 Helping OS related problem to a friend.
+ZCZC W03 20 L22 Quiz
+ZCZC W03 100 L02 Attend ZOOM OS Class
