@@ -9,12 +9,12 @@ permalink: /LINKS/
 1. [Linux Vs Windows Difference: Which Is The Best Operating System?](https://www.softwaretestinghelp.com/linux-vs-windows/)<br>
 Why should we download Linux? There are several reasons we should consider, Linux is more open and changeable than Windows or MacOS
 
-## Week 01
+## 🦎  Week 01
 
 2. [Learning Awk Is Essential For Linux Users](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
 One of my favorite command line utilities is "awk" which is a text-processing program.  It is mostly used for pattern scanning and processing.  In this video, I will give examples of some of the basic awk commands, and show you some of the ways that I often use awk.
 
-## Week 02
+## 🐒  Week 02
 
 3. [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity)<br>
 Data is valuable. With so much sensitive information online, companies need cybersecurity pros to protect it. This course is a great starting point for anyone interested in cybersecurity, but not sure where to start. Build your foundation by learning the fundamentals of one of the fastest-growing fields today.
@@ -28,7 +28,7 @@ Discuss the differences between symmetric encryption, a single-key encryption te
 6. [Access Control](https://searchsecurity.techtarget.com/definition/access-control)<br>
 Access control is a security technique that regulates who or what can view or use resources in a computing environment. It is a fundamental concept in security that minimizes risk to the business or organization.
 
-## Week 03
+## 🐣  Week 03
 
 7. [File systems and operating systems](https://microsoft.fandom.com/wiki/File_system)<br>
 Most operating systems provide a file system, as a file system is an integral part of any modern operating system. Early microcomputer operating systems' only real task was file management — a fact reflected in their names (see DOS). Some early operating systems had a separate component for handling file systems which was called a disk operating system. On some microcomputers, the disk operating system was loaded separately from the rest of the operating system. On early operating systems, there was usually support for only one, native, unnamed file system; for example, CP/M supports only its own file system, which might be called "CP/M file system" if needed, but which didn't bear any official name at all.
