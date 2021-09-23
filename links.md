@@ -27,3 +27,11 @@ Discuss the differences between symmetric encryption, a single-key encryption te
 
 6. [Access Control](https://searchsecurity.techtarget.com/definition/access-control)<br>
 Access control is a security technique that regulates who or what can view or use resources in a computing environment. It is a fundamental concept in security that minimizes risk to the business or organization.
+
+## Week 03
+
+7. [File systems and operating systems](https://microsoft.fandom.com/wiki/File_system)<br>
+Most operating systems provide a file system, as a file system is an integral part of any modern operating system. Early microcomputer operating systems' only real task was file management — a fact reflected in their names (see DOS). Some early operating systems had a separate component for handling file systems which was called a disk operating system. On some microcomputers, the disk operating system was loaded separately from the rest of the operating system. On early operating systems, there was usually support for only one, native, unnamed file system; for example, CP/M supports only its own file system, which might be called "CP/M file system" if needed, but which didn't bear any official name at all.
+
+8. [Journaling and log-structured file systems](https://www.cs.cornell.edu/courses/cs4410/2020fa/schedule/slides/LFS.pdf)<br>
+A journaling file system is a file system that keeps track of changes not yet committed to the file system's main part by recording the goal of such changes in a data structure known as a "journal", which is usually a circular log. In the event of a system crash or power failure, such file systems can be brought back online more quickly with a lower likelihood of becoming corrupted. Depending on the actual implementation, a journaling file system may only keep track of stored metadata, resulting in improved performance at the expense of increased possibility for data corruption. Alternatively, a journaling file system may track both stored data and related metadata, while some implementations allow selectable behavior in this regard.
