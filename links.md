@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-# LINKS
+# LINKS 🔗
 
 ## 🦖  Week 00
 
