@@ -35,3 +35,18 @@ Most operating systems provide a file system, as a file system is an integral pa
 
 8. [Journaling and log-structured file systems](https://www.cs.cornell.edu/courses/cs4410/2020fa/schedule/slides/LFS.pdf)<br>
 A journaling file system is a file system that keeps track of changes not yet committed to the file system's main part by recording the goal of such changes in a data structure known as a "journal", which is usually a circular log. In the event of a system crash or power failure, such file systems can be brought back online more quickly with a lower likelihood of becoming corrupted. Depending on the actual implementation, a journaling file system may only keep track of stored metadata, resulting in improved performance at the expense of increased possibility for data corruption. Alternatively, a journaling file system may track both stored data and related metadata, while some implementations allow selectable behavior in this regard.
+
+## 🦀  Week 04
+
+9. [Understanding Memory Mapping](https://www.ibm.com/docs/en/aix/7.1?topic=memory-understanding-mapping)<br>
+The speed at which application instructions are processed on a system is proportionate to the number of access operations required to obtain data outside of program-addressable memory. The system provides two methods for reducing the transactional overhead associated with these external read and write operations. You can map file data into the process address space. You can also map processes to anonymous memory regions that may be shared by cooperating processes.
+
+10. [Memory Management in C](https://eleceng.dit.ie/frank/IntroToC/Memory.html)<br>
+Programs, program variables and dynamically allocated blocks of data occupy memory within
+a computer.  There must be careful management or memory to prevent such things as program
+code being over-written by variables which would result in some bizarre behaviour of the program.
+This management task is usually undertaken by a combination of the computer operating system, the
+compiler/linker and hardware features within the system processor.
+
+11. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+Physical Address identifies a physical location of required data in a memory. The user never directly deals with the physical address but can access by its corresponding logical address. The user program generates the logical address and thinks that the program is running in this logical address but the program needs physical memory for its execution, therefore, the logical address must be mapped to the physical address by MMU before they are used.
