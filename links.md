@@ -54,14 +54,10 @@ Physical Address identifies a physical location of required data in a memory. Th
 ## 🐢  Week 05
 
 12. [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
-A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM.
-
-The main visible advantage of this scheme is that programs can be larger than physical memory. Virtual memory serves two purposes. First, it allows us to extend the use of physical memory by using disk. Second, it allows us to have memory protection, because each virtual address is translated to a physical address.
+A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM. The main visible advantage of this scheme is that programs can be larger than physical memory. Virtual memory serves two purposes. First, it allows us to extend the use of physical memory by using disk. Second, it allows us to have memory protection, because each virtual address is translated to a physical address.
 
 13. [Memory Allocation Algorithms](https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/doc/html/interprocess/memory_algorithms.html)<br>
-This algorithm is an advanced algorithm using red-black trees to sort the free portions of the memory segment by size. This allows logarithmic complexity allocation. Apart from this, a doubly-linked list of all portions of memory (free and allocated) is maintained to allow constant-time access to previous and next blocks when doing merging operations.
-
-The data used to create the red-black tree of free nodes is overwritten by the user since it's no longer used once the memory is allocated.
+This algorithm is an advanced algorithm using red-black trees to sort the free portions of the memory segment by size. This allows logarithmic complexity allocation. Apart from this, a doubly-linked list of all portions of memory (free and allocated) is maintained to allow constant-time access to previous and next blocks when doing merging operations. The data used to create the red-black tree of free nodes is overwritten by the user since it's no longer used once the memory is allocated.
 
 14. [Physical Memory](https://www.sciencedirect.com/topics/computer-science/physical-memory)<br>
 Physical memory (also known as random-access memory (RAM)) is a form of very fast, but volatile data storage. RAM modules are typically measured in nanoseconds (1000− 3), and physical disks are typically measured in milliseconds (1000− 1). This makes physical memory roughly 100,000 times faster than a common physical disk. Therefore, when possible, Windows and Windows Server keep the most frequently accessed pages of memory in physical memory and rely on a disk only if needed.
