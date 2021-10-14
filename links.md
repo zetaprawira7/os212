@@ -51,7 +51,7 @@ compiler/linker and hardware features within the system processor.
 11. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
 Physical Address identifies a physical location of required data in a memory. The user never directly deals with the physical address but can access by its corresponding logical address. The user program generates the logical address and thinks that the program is running in this logical address but the program needs physical memory for its execution, therefore, the logical address must be mapped to the physical address by MMU before they are used.
 
-##🐢  Week 05
+## 🐢  Week 05
 
 12. [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM.
@@ -66,15 +66,13 @@ The data used to create the red-black tree of free nodes is overwritten by the u
 14. [Physical Memory](https://www.sciencedirect.com/topics/computer-science/physical-memory)<br>
 Physical memory (also known as random-access memory (RAM)) is a form of very fast, but volatile data storage. RAM modules are typically measured in nanoseconds (1000− 3), and physical disks are typically measured in milliseconds (1000− 1). This makes physical memory roughly 100,000 times faster than a common physical disk. Therefore, when possible, Windows and Windows Server keep the most frequently accessed pages of memory in physical memory and rely on a disk only if needed.
 
-## Week 06
+## 🐍  Week 06
 
 15. [Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 A process is basically a program in execution. The execution of a process must progress in a sequential fashion. To put it in simple terms, we write our computer programs in a text file and when we execute this program, it becomes a process which performs all the tasks mentioned in the program.
 
 16. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
-he process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
-
-Process scheduling is an essential part of a Multiprogramming operating systems. Such operating systems allow more than one process to be loaded into the executable memory at a time and the loaded process shares the CPU using time multiplexing.
+Process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy. Process scheduling is an essential part of a Multiprogramming operating systems. Such operating systems allow more than one process to be loaded into the executable memory at a time and the loaded process shares the CPU using time multiplexing.
 
 17. [Multi-Threading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
 A thread is a flow of execution through the process code, with its own program counter that keeps track of which instruction to execute next, system registers which hold its current working variables, and a stack which contains the execution history.
