@@ -76,15 +76,7 @@ A thread is a flow of execution through the process code, with its own program c
 ## 🐹  Week 07
 
 18. [Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
-In this tutorial, we will be covering the concept of Process synchronization in an Operating System.
-
-Process Synchronization was introduced to handle problems that arose while multiple process executions.
-
-Process is categorized into two types on the basis of synchronization and these are given below:
-
-- Independent Process
-
-- Cooperative Process
+In this tutorial, we will be covering the concept of Process synchronization in an Operating System. Process Synchronization was introduced to handle problems that arose while multiple process executions.
 
 19. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
 Process Synchronization is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources.
