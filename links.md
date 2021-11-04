@@ -72,3 +72,27 @@ Process scheduling is the activity of the process manager that handles the remov
 
 17. [Multi-Threading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
 A thread is a flow of execution through the process code, with its own program counter that keeps track of which instruction to execute next, system registers which hold its current working variables, and a stack which contains the execution history.
+
+## 🐹  Week 07
+
+18. [Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+In this tutorial, we will be covering the concept of Process synchronization in an Operating System.
+
+Process Synchronization was introduced to handle problems that arose while multiple process executions.
+
+Process is categorized into two types on the basis of synchronization and these are given below:
+
+- Independent Process
+
+- Cooperative Process
+
+19. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+Process Synchronization is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources.
+
+20. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. 
+Consider an example when two trains are coming toward each other on the same track and there is only one track, none of the trains can move once they are in front of each other. A similar situation occurs in operating systems when there are two or more processes that hold some resources and wait for resources held by other(s). For example, in the below diagram, Process 1 is holding Resource 1 and waiting for resource 2 which is acquired by process 2, and process 2 is waiting for resource 1.
+
+21. [Difference between Starvation and Deadlock](https://www.javatpoint.com/os-deadlocks-introduction)<br>
+Deadlock: Deadlock is a situation where no process got blocked and no process proceeds.
+Starvation: Starvation is a situation where the low priority process got blocked and the high priority processes proceed.

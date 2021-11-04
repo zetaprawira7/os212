@@ -42,3 +42,7 @@ ZCZC W06 20 L22 Quiz
 ZCZC W06 100 L02 Attend ZOOM OS Class
 ZCZC W06 120 L09 Assignment in General
 ZCZC W06 40 YouTube: study, etc.
+ZCZC W07 20 L22 Quiz
+ZCZC W07 100 L02 Attend ZOOM OS Class
+ZCZC W07 60 L09 Assignment in General
+ZCZC W07 60 YouTube: study, etc.
