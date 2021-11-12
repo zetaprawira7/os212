@@ -88,3 +88,17 @@ Consider an example when two trains are coming toward each other on the same tra
 21. [Difference between Starvation and Deadlock](https://www.javatpoint.com/os-deadlocks-introduction)<br>
 Deadlock: Deadlock is a situation where no process got blocked and no process proceeds.
 Starvation: Starvation is a situation where the low priority process got blocked and the high priority processes proceed.
+
+## 🐬  Week 08
+
+22. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+In multiple-processor scheduling multiple CPU’s are available and hence Load Sharing becomes possible. However multiple processor scheduling is more complex as compared to single processor scheduling. In multiple processor scheduling there are cases when the processors are identical i.e. HOMOGENEOUS, in terms of their functionality, we can use any processor available to run any process in the queue.
+
+23. [What is Multiprocessor?](https://binaryterms.com/multiple-processor-scheduling.html)<br>
+A multiprocessor is a system with several processors. Well with the presence of multiple processors it becomes complex to design a scheduling algorithm. 
+
+24. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)<br>
+Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+
+25. [Chapter 5. Compiling a Cross-Toolchain](https://www.linuxfromscratch.org/lfs/view/11.0/chapter05/introduction.html)<br>
+This chapter shows how to build a cross-compiler and its associated tools. Although here cross-compilation is faked, the principles are the same as for a real cross-toolchain.
