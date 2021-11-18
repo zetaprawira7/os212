@@ -102,3 +102,18 @@ Linux From Scratch (LFS) is a project that provides you with step-by-step instru
 
 25. [Chapter 5. Compiling a Cross-Toolchain](https://www.linuxfromscratch.org/lfs/view/11.0/chapter05/introduction.html)<br>
 This chapter shows how to build a cross-compiler and its associated tools. Although here cross-compilation is faked, the principles are the same as for a real cross-toolchain.
+
+## 👾  Week 09
+
+26. [What is RAID?](https://www.javatpoint.com/what-is-raid)<br>
+RAID or redundant array of independent disks is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for data redundancy, performance improvement, or both.
+
+27. [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)<br>
+Storage devices consists of Registers, Cache, Main-Memory, Electronic-Disk, Magnetic-Disk, Optical-Disk, Magnetic-Tapes. Each storage system provides the basic system of storing a datum and of holding the datum until it is retrieved at a later time. All the storage devices differ in speed, cost, size and volatility. The most common Secondary-storage device is a Magnetic-disk, which provides storage for both programs and data.
+
+28. [What is Firmware?](https://whatis.techtarget.com/definition/firmware)<br>
+Firmware is programming that's written to a hardware device's nonvolatile memory. Nonvolatile memory is a form of static random access memory whose contents are saved when a hardware device is turned off or loses its external power source.
+
+29. [What is a bootloader?](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)<br>
+A bootloader, also known as a boot program or bootstrap loader, is a special operating system software that loads into the working memory of a computer after start-up. For this purpose, immediately after a device starts, a bootloader is generally launched by a bootable medium like a hard drive, a CD/DVD or a USB stick. The boot medium receives information from the computer’s firmware (e.g. BIOS) about where the bootloader is. The whole process is also described as “booting”.
+
